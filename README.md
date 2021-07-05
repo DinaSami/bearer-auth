@@ -8,7 +8,7 @@
 
 ### Github actions
 
-[actions](https://github.com/RulaAlqasem/bearer-auth/actions)
+[actions](https://github.com/DinaSami/bearer-auth/actions)
 
 ### pull request
 
