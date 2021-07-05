@@ -4,7 +4,7 @@
 
 ### Heroku applications
 
-[server-deploy-main]()
+[server-deploy-main](https://bearer-auth-dina.herokuapp.com/)
 
 ### Github actions
 
